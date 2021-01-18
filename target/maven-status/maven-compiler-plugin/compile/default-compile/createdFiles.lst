@@ -1,4 +1,13 @@
 uk\co\willanthony\config\WebConfig.class
-Main.class
-uk\co\willanthony\config\WebAppInitializer.class
+uk\co\willanthony\util\ViewNames.class
+uk\co\willanthony\model\TodoData.class
+uk\co\willanthony\service\DemoService.class
+uk\co\willanthony\controller\TodoItemController.class
+uk\co\willanthony\util\Mappings.class
 uk\co\willanthony\controller\DemoController.class
+Main.class
+uk\co\willanthony\model\TodoItem.class
+uk\co\willanthony\config\WebAppInitializer.class
+uk\co\willanthony\service\DemoServiceImpl.class
+uk\co\willanthony\service\TodoItemService.class
+uk\co\willanthony\service\TodoItemServiceImpl.class
